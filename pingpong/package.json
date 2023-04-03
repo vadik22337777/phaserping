@@ -1,0 +1,28 @@
+{
+    "version": "1.0.0",
+    "description": "phaser test project by vadim",
+    "main": "index.js",
+    "license": "",
+    "private": false,
+    "scripts": {
+        "start": "parcel src/index.html"
+    },
+    "dependencies": {
+        "phaser": "^3.0.0"
+    },
+    "devDependencies": {
+        "parcel": "^2.0.0"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
